@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NarraCat PRO：故事生于人，成于智能" width="720">
+<img src="assets/banner.png" alt="NarraCat PRO：故事生于人，成于智能" width="100%">
 
 # NarraCat Pro
 
@@ -25,37 +25,37 @@ NarraCat Pro 是面向长篇小说与短剧的 AI 创作引擎。<br>
 
 ### 对话协作 —— 说说你的想法，一起把故事写下去
 
-<img src="assets/features/01-dialogue-collaboration.webp" alt="NarraCat Pro 对话协作" width="720">
+<img src="assets/features/01-dialogue-collaboration.webp" alt="NarraCat Pro 对话协作" width="100%">
 
 聊情节、理大纲、写正文，也能随时提出修改。NarraCat 结合你的作品，把讨论中的想法落实到稿子里。你继续提意见，一起把故事打磨成想要的样子。
 
 ### 故事记忆 —— 下一章，带着前面的故事一起写
 
-<img src="assets/features/02-story-memory.webp" alt="NarraCat Pro 故事记忆" width="720">
+<img src="assets/features/02-story-memory.webp" alt="NarraCat Pro 故事记忆" width="100%">
 
 人物经历了什么，关系怎样变化，还有哪些伏笔等待回应。NarraCat 结合前文与故事记忆，辅助续写、修改和前后衔接检查，减少你反复补充背景的负担。
 
 ### 写作偏好 —— 你的写作习惯，也能成为它的方法
 
-<img src="assets/features/03-your-writing-method.webp" alt="NarraCat Pro 写作偏好" width="720">
+<img src="assets/features/03-your-writing-method.webp" alt="NarraCat Pro 写作偏好" width="100%">
 
 对白怎么写，打斗怎么展开，哪些表达尽量避免——把偏好告诉 NarraCat，也可以把反复打磨的方法整理成写作技能，用在这本书，或以后的创作里。
 
 ### 文风对比 —— 哪种写法更对味，放在一起比比看
 
-<img src="assets/features/04-style-comparison.webp" alt="NarraCat Pro 文风对比" width="720">
+<img src="assets/features/04-style-comparison.webp" alt="NarraCat Pro 文风对比" width="100%">
 
 同一章原稿，试试不同的提示词与模型。对照几版文字的节奏、对白和表达，挑选更合心意的一版采用，找到适合这本书的写法。
 
 ### 唠个嗑 —— 和你笔下的角色聊聊
 
-<img src="assets/features/05-character-chat.webp" alt="NarraCat Pro 唠个嗑" width="720">
+<img src="assets/features/05-character-chat.webp" alt="NarraCat Pro 唠个嗑" width="100%">
 
 写累了，找笔下的人物聊聊。以角色设定和已完成的剧情为基础，听他谈经历、聊心事，也问问他为什么做出那个选择。
 
 ### 短剧创作（试用） —— 从一个点子，写到一场场戏
 
-<img src="assets/features/06-short-drama.webp" alt="NarraCat Pro 短剧创作" width="720">
+<img src="assets/features/06-short-drama.webp" alt="NarraCat Pro 短剧创作" width="100%">
 
 除了小说，也能和 NarraCat 一起写短剧。从故事构想、分集梗概，到每一场的动作与对白，逐步推进剧本，并将已完成的内容导出为 Word 或 PDF。
 
