@@ -1,5 +1,7 @@
 # NarraCat Pro 隐私说明
 
+> 本说明以官网 <https://narracat.com/privacy> 为准，这里是同样内容的副本。
+
 NarraCat Pro 是安装在你电脑上的写作软件。这份说明逐项列出它在什么时候联网、发什么、发给谁，以及你能怎么关。
 
 ## 先说结论
